@@ -73,8 +73,4 @@ Through the development of GreenCycle, our team mastered:
 
 
 
-::: center
 
-Engineered with 💚 by GROUP 17 | Pioneering Sustainable Technology Solutions
-
-:::
